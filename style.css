@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+    background-color: azure;
+}
+
+h6{
+    font-size: 18px;
+}
+
+.markhor{
+    widows: 600px;
+    height: 200px;
+}
